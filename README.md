@@ -10,16 +10,28 @@
  :free: В своё свободное от учебы и фриланса время: играю в футбол :soccer: или занимаюсь рыбалкой :fishing_pole_and_fish:.
 
  :end: Подитог: 
+ 
  :heavy_check_mark: Основные алгоритмы
+
  :heavy_check_mark: Java Syntax
+
  :heavy_check_mark: Паттерны программирования
+
  :heavy_check_mark: Базовые запросы SQL
- :heavy_check_mark: Запланировано изучение Spring Framework(курс стартует 22.01.22 , оканчивается 19.02.22)
+
+ :heavy_check_mark: Запланировано изучение Spring Framework
+ (курс стартует 22.01.22 , оканчивается 19.02.22)
+
  :heavy_check_mark: JDBC
+
  :heavy_check_mark: Java FX
+
  :heavy_check_mark: Сервлеты
+
  :heavy_check_mark: Базовое знание Git
+
  :heavy_check_mark: Знание C и C++ (Знание этих языков пригодится для JNI)
+
  :heavy_check_mark: Уровень английского языка - pre-intermediate
 
  
