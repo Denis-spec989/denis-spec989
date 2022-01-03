@@ -19,6 +19,8 @@
 
  :heavy_check_mark: Паттерны программирования
 
+ :heavy_check_mark: Знание принципов ООП
+
  :heavy_check_mark: Базовые запросы SQL
 
  :heavy_check_mark: Запланировано изучение Spring Framework
