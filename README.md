@@ -21,8 +21,6 @@
 
  :heavy_check_mark: Знание принципов ООП
 
- :heavy_check_mark: Базовые запросы SQL
-
  :heavy_check_mark: Запланировано изучение Spring Framework
  (курс стартует 22.01.22 , оканчивается 19.02.22)
 
@@ -35,6 +33,8 @@
  :heavy_check_mark: Базовое знание HTTP и HTTPS протоколов
 
  :heavy_check_mark: Базовое знание Git
+
+ :heavy_check_mark: Базовые запросы SQL
 
  :heavy_check_mark: Знание C и C++ (Знание этих языков пригодится для JNI)
 
