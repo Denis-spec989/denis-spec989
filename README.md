@@ -28,7 +28,7 @@
 
  :heavy_check_mark: Java FX
 
- :heavy_check_mark: Сервлеты и JSP
+ :heavy_check_mark: Сервлеты, JSP, JSF
 
  :heavy_check_mark: Базовое знание HTTP и HTTPS протоколов
 
