@@ -24,6 +24,8 @@
  :heavy_check_mark: Запланировано изучение Spring Framework
  (курс стартует 22.01.22 , оканчивается 19.02.22)
 
+ :heavy_check_mark: Работа с Maven
+
  :heavy_check_mark: JDBC
 
  :heavy_check_mark: Java FX
