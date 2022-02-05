@@ -15,7 +15,7 @@
 
 :heavy_check_mark: Разработка клиент-серверных приложение на Java.
 
-:heavy_check_mark: Разработка приложений с использованием Spring Framework(Spring Core,Boot,Data,MVC,Web)
+:heavy_check_mark: Разработка приложений с использованием Spring Framework(Spring Core,Boot,Data,MVC-Web)
 
 :heavy_check_mark: Работа с реляционными базами данных на Java(PostgreSQL)
 
