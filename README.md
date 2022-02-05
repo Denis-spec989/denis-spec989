@@ -11,36 +11,28 @@
 
  :free: В своё свободное от учебы и фриланса время играю в футбол :soccer: или занимаюсь рыбалкой :fishing_pole_and_fish:.
 
- :end: Подитог: 
+ :end: Мой опыт: 
+
+:heavy_check_mark: Разработка клиент-серверных приложение на Java.
+
+:heavy_check_mark: Разработка приложений с использованием Spring Framework(Spring Core,Boot,Data,MVC,Web)
+
+:heavy_check_mark: Работа с реляционными базами данных на Java(PostgreSQL)
+
+:heavy_check_mark: Работа с многопоточностью Java.
+
+:heavy_check_mark: Разработка современного пользовательского интерфейса на JavaFX.
+
+:heavy_check_mark: Знание Java 8/17 (core, io, collections, generics, threads,lambda).
+
+:heavy_check_mark: Работа с Maven,Gradle.
+
+:heavy_check_mark: Работа с HTTP-протоколом(tools-а Postman).
+
+:heavy_check_mark: Знание основ программирования и баз данных. 
+
+:heavy_check_mark: Решение алгоритмических задач.
  
- :heavy_check_mark: Основные алгоритмы
-
- :heavy_check_mark: Java Syntax
-
- :heavy_check_mark: Паттерны программирования
-
- :heavy_check_mark: Знание принципов ООП
-
- :heavy_check_mark: Запланировано изучение Spring Framework
- (курс стартует 22.01.22 , оканчивается 19.02.22)
-
- :heavy_check_mark: Работа с Maven
-
- :heavy_check_mark: JDBC
-
- :heavy_check_mark: Java FX
-
- :heavy_check_mark: Сервлеты, JSP, JSF
-
- :heavy_check_mark: Базовое знание HTTP и HTTPS протоколов
-
- :heavy_check_mark: Базовое знание Git
-
- :heavy_check_mark: Базовые запросы SQL
-
- :heavy_check_mark: Знание C и C++ (Знание этих языков пригодится для JNI)
-
- :heavy_check_mark: Уровень английского языка - pre-intermediate
 
  
 :mailbox_with_mail: Связаться со мной можно по почте **proanglerdenis@gmail.com**
