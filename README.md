@@ -17,18 +17,31 @@
 
  :end: Мой стэк: 
 :heavy_check_mark: Java 11
+
 :heavy_check_mark: Spring Boot,Data,Cloud,Web и т.д
+
 :heavy_check_mark: Брокеры сообщений(RabbitMq)
+
 :heavy_check_mark: REST API
+
 :heavy_check_mark: Паттерн Saga на основе Event Driven Microservices(Axon Framework)
+
 :heavy_check_mark: Знание ООП и SOLID принципов
+
 :heavy_check_mark: Docker
+
 :heavy_check_mark: Kubernetes
+
 :heavy_check_mark: Maven (Сборка проектов)
+
 :heavy_check_mark: MS SQL и PostgreSql (Базы данных)
+
 :heavy_check_mark: JUnit и Testcontainers
+
 :heavy_check_mark: Docker Hub, Docker Registry
+
 :heavy_check_mark: Jenkins
+
 :heavy_check_mark: Знание Linux выше базового 
  
 :mailbox_with_mail: Связаться со мной можно по почте **proanglerdenis@gmail.com**
