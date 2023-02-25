@@ -19,13 +19,13 @@
  
 :heavy_check_mark: Java 11
 
-:heavy_check_mark: Spring Boot,Data,Cloud,Web и т.д
+:heavy_check_mark: Spring Boot,Data,Cloud,Web,Security и т.д
 
 :heavy_check_mark: Брокеры сообщений(RabbitMq)
 
 :heavy_check_mark: REST API
 
-:heavy_check_mark: Паттерн Saga на основе Event Driven Microservices(Axon Framework)
+:heavy_check_mark: Основные паттерны: customer,subscriber,factory, etc. Паттерн Saga на основе Event Driven Microservices(Axon Framework)
 
 :heavy_check_mark: Знание ООП и SOLID принципов
 
@@ -45,7 +45,7 @@
 
 :heavy_check_mark: Знание Linux выше базового 
  
-:mailbox_with_mail: Связаться со мной можно по почте **proanglerdenis@gmail.com**
+:mailbox_with_mail: Связаться со мной можно по почте **proanglerdenis@gmail.com** или в телеграме **@Denisspec989**
 
 
 <!--
